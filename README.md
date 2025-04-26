@@ -1,6 +1,6 @@
 ## Setup
 
-### Confirm if ruby is installed
+### Confirm if Ruby is installed
 ```
 ruby -v
 ```
@@ -44,7 +44,7 @@ rspec spec/client_duplicate_spec.rb
 - Results are unsorted and will be returned without a limit.
 
 ### Search functionality
-- Since we are only using ```.select```, the search is limited to simple filtering, unlike the advanced querying features offered by Searchkick or PgSearch.
+- Since we are only using ```.select```, the search is limited to simple filtering, unlike the advanced querying features offered by ```Searchkick``` or ```PgSearch```.
 - Limited filtering to specific key which is name.
 
 ### Duplicate Functionality

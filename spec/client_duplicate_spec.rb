@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative '../services/client_loader'
 require_relative '../services/client_duplicate'
 require 'json'
