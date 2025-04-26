@@ -35,7 +35,7 @@ rspec spec/client_search_spec.rb
 rspec spec/client_duplicate_spec.rb
 ```
 
-***Notes:*** *I added a ```puts``` on every returns for printing. But I also return the actual values for testing.*
+***Note:*** *I added a ```puts``` on every successful returns for printing. But I also return the actual values for testing.*
 
 ## Limitations
 
