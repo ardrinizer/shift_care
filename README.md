@@ -45,7 +45,7 @@ rspec spec/client_duplicate_spec.rb
 
 ### Search functionality
 - Since we are only using ```.select```, the search is limited to simple filtering, unlike the advanced querying features offered by ```Searchkick``` or ```PgSearch```.
-- Limited filtering to specific key which is name.
+- Limited filtering to specific key which is ```full_name```.
 
 ### Duplicate Functionality
 - Filtering for duplicate emails is case-sensitive, so similar emails with different letter cases are treated as different.
